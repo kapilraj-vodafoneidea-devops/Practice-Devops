@@ -1,0 +1,45 @@
+1 try { . "c:\Users\Lenovo\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\ter...
+   2 docker ps
+   3 docker ps
+   4 docker ps
+   5 docker ps -a
+   6 docker rm e255bd6fb0a1
+   7 docker ps -a
+   8 docker ps -docker images
+   9 docker  images
+  10 docker rmi flask-monitor-app
+  11 docker  images
+  12 docker ls
+  13 ls
+  14 cd python-masterclass
+  15 ls
+  16 cd ../
+  17 ls
+  18 cd Practice_03-11-2024
+  19 ls
+  20 cd ../
+  21 ls
+  22 cd python-masterclass
+  23 ls
+  24 cd advanced
+  26 git init
+  27 ls
+  28 ls -al
+  29 ls -a
+  30 ls a
+  31 clear
+  32 git status
+  33 git log
+  34 git add .
+  35 git status
+  36 git config
+  38 git config --list
+  39 git config --user.name
+  40 git config --list
+  41 git config --unset user.name
+  42 git config --list
+  43 git config  --global user.name "kapilrajc05"
+  44 git config --list
+  45 git config  --global user.name "kapilrajc05" user.email "kapilrajc05@gmail.com"
+  46 git config  --global  user.email "kapilrajc05@gmail.com"
+  47 git config --list
